@@ -2,9 +2,9 @@
 
 ### Bootcamp Decola Dev Avanade 2021 - Digital Inovation One.
 
-![visao_dektop_1024px](C:\Users\emano\OneDrive\Área de Trabalho\DIO\Práticas\proj-instagram\visao_dektop_1024px.png)
+![visao_dektop_1024px](https://github.com/emanoelantonio/login-Instagram/tree/main/proj-instagram/visao_dektop_1024px.png)
 
-![visao_smartphone(Moto G4)](C:\Users\emano\OneDrive\Área de Trabalho\DIO\Práticas\proj-instagram\visao_mobile(Moto G4).png)
+![visao_smartphone(Moto G4)](https://github.com/emanoelantonio/login-Instagram/blob/main/proj-instagram/visao_mobile(Moto%20G4).png)
 
 
 
